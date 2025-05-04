@@ -27,7 +27,8 @@ or check in your container registry.
 - Registry down or unreachable
 
 **If private registry:**  
-Create a secret for your registry credentials:  
+Create a secret for your registry credentials: 
+ 
 ============================================================================================================================================================================================================================
 ## 🐞 Issue: Pod Stuck in Pending State
 
